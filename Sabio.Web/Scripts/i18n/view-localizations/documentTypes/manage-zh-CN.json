@@ -1,0 +1,11 @@
+﻿{
+  "documentTypes": {
+    "manage": {
+      "name": "Namo",
+      "code": "Codo",
+      "displayOrder": "Display Ordero",
+      "inactive": "Inactiveo",
+      "documentTypes" :  "Document Typeso"
+    }
+  }
+}

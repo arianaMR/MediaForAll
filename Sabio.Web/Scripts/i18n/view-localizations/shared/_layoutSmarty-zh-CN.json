@@ -1,0 +1,28 @@
+﻿{
+  "_layoutSmarty": {
+    "languageOptions": {
+      "chineseCnFlag": "/assets/images/flags/cn.png",
+      "chineseCnLangKey": "zh-CN",
+      "chineseCnText": "简体",
+      "chineseTwFlag": "/assets/images/flags/tw.png",
+      "chineseTwLangKey": "zh-TW",
+      "chineseTwText": "繁體",
+      "englishFlag": "/assets/images/flags/us.png",
+      "englishLangKey": "en-US",
+      "englishText": "English",
+      "spanishFlag": "/assets/images/flags/es.png",
+      "spanishLangKey": "es",
+      "spanishText": "Español",
+      "topFlag": "{{flag}}",
+      "topKey": "{{key}}",
+      "topText": "{{button}}"
+    },
+    "headerBar": {
+      "faqLink": "常见问答集",
+      "findAgent": "找经纪人",
+      "login": "登录",
+      "register": "注册",
+        "welcome": "欢迎进入"
+    }
+  }
+}

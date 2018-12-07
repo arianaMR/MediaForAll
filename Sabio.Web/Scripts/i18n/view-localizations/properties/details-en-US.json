@@ -1,0 +1,47 @@
+﻿{
+  "properties": {
+    "details": {
+      "notesPanelHeader": "Property Notes",
+      "notesPanelBody": {
+        "notesButton": "Add Note"
+      },
+      "listingAgentInfoHeader": "Listing Agent Contact Info",
+      "listingAgentInfoBody": {
+        "ListAgentPager": "XXXXXXXX",
+        "ListAgentFax": "XXXXXXXX",
+        "ListAgentVoiceMail": "XXXXXXXX",
+        "ListAgentEmail": "XXXXXXXX",
+        "ListOfficeFax": "XXXXXXXX",
+        "ListOfficePhone": "XXXXXXXX",
+        "LockBoxLocation": "XXXXXXXX",
+        "MlsListingId": "XXXXXXXX",
+        "PrivateRemarks": "XXXXXXXX",
+        "ShowingContactName": "XXXXXXXX",
+        "ShowingContactPhone": "XXXXXXXX",
+        "ShowingContactType": "XXXXXXXX",
+        "ShowingInstructions": "XXXXXXXX",
+        "SignOnPropertyYN": "XXXXXXXX",
+        "ListingTerms": "XXXXXXXX"
+      },
+      "showingInstructionsHeader": "Showing Instructions",
+      "showingInstructionsBody": {},
+      "propertyDetailsHeader": "Property Details",
+      "propertyDetailsBody": {
+        "basicDetailsHeader": "Basic Details",
+        "basicDetailsBody": {},
+        "descriptionHeader": "Description",
+        "descriptionBody": {},
+        "moreDetailsHeader": "More Details",
+        "moreDetailsBody": {},
+        "schoolInfoHeaders": "School Info",
+        "schoolinfoBody": {},
+        "mapHeader": "Map",
+        "mapBody": {}
+      },
+      "postViewReactionHeader": "Post View Reaction",
+      "postViewReactionBody": {},
+      "toDoListHeader": "To Do List",
+      "toDoListBody": {}
+    }
+  }
+}

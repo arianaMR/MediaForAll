@@ -1,0 +1,16 @@
+﻿{
+  "landingPage": {
+    "index": {
+      "agentsIcon": "Find Agents",
+      "catchPhrase": "Buying & Selling Homes made easy.",
+      "encouragePhrase": "Start Searching!",
+      "expenseIcon": "Keep track of Expenses",
+      "logoName": "RETGRID",
+      "ourGoalBody": "Make the complicated process of buying and selling homes easy!",
+      "ourGoalHeader": "Our Goal",
+      "placeholder": "Enter a Location",
+      "searchIcon": "Search For Homes",
+      "transactionsIcon": "Track all transcations"
+    }
+  }
+}

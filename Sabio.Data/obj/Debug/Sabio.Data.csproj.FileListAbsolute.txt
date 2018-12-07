@@ -1,0 +1,12 @@
+C:\SF.Code\C25\Sabio.Data\bin\Debug\Sabio.Data.dll.config
+C:\SF.Code\C25\Sabio.Data\bin\Debug\Sabio.Data.dll
+C:\SF.Code\C25\Sabio.Data\bin\Debug\Sabio.Data.pdb
+C:\SF.Code\C25\Sabio.Data\obj\Debug\Sabio.Data.dll
+C:\SF.Code\C25\Sabio.Data\obj\Debug\Sabio.Data.pdb
+C:\SF.Code\C25\Sabio.Data\obj\Debug\Sabio.Data.csprojResolveAssemblyReference.cache
+C:\SF.Code\MediaForAll_v2\Sabio.Data\bin\Debug\MediaForAll.Data.dll.config
+C:\SF.Code\MediaForAll_v2\Sabio.Data\bin\Debug\MediaForAll.Data.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Data\bin\Debug\MediaForAll.Data.pdb
+C:\SF.Code\MediaForAll_v2\Sabio.Data\obj\Debug\Sabio.Data.csprojResolveAssemblyReference.cache
+C:\SF.Code\MediaForAll_v2\Sabio.Data\obj\Debug\MediaForAll.Data.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Data\obj\Debug\MediaForAll.Data.pdb

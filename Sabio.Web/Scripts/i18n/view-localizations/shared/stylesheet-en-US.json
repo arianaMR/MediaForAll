@@ -1,0 +1,6 @@
+﻿{
+  "stylesheet": {
+    "crossSheetNamespacingResult": "The translation id placed here is in the index-en.json file, but the value for that id is a reference to a translation id in the stylesheet.json file. Since both those files have been loaded here by the $translatePartialLoader service, the value in the stylesheet.json file will be succesfully returned.",
+    "submit": "VALUE FROM STYLESHEET"
+  }
+}

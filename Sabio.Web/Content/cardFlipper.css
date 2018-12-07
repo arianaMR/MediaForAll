@@ -1,0 +1,143 @@
+﻿card-flipper {
+  float: left;
+  -webkit-perspective: 600px;
+          perspective: 600px;
+  -ms-perspective: none;
+}
+card-flipper card-flipper-front,
+card-flipper card-flipper-back {
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+card-flipper card-flipper-front {
+  z-index: 900;
+  -webkit-transform: rotate3d(0, 0, 0, 0deg);
+          transform: rotate3d(0, 0, 0, 0deg);
+  -ms-transform: rotateY(0deg);
+}
+card-flipper card-flipper-back {
+  z-index: 800;
+  -webkit-transform: rotate3d(0, 1, 0, -180deg);
+          transform: rotate3d(0, 1, 0, -180deg);
+  -ms-transform: rotateY(180deg);
+}
+card-flipper.flipped card-flipper-front {
+  z-index: 900;
+  -webkit-transform: rotate3d(0, 1, 0, 180deg);
+          transform: rotate3d(0, 1, 0, 180deg);
+  -ms-transform: rotateY(180deg);
+}
+card-flipper.flipped card-flipper-back {
+  z-index: 1000;
+  -webkit-transform: rotate3d(0, 0, 0, 0deg);
+          transform: rotate3d(0, 0, 0, 0deg);
+  -ms-transform: rotateY(0deg);
+}
+
+/* dashboard class*/
+card-flipper.dashboard {
+  float: left;
+  margin: 0 10px 10px 0;
+  position: relative;
+  font-size: .8em;
+  cursor: pointer;
+  width: 100%;
+  height: 432px;
+}
+card-flipper.dashboard img {
+  height: 100%;
+  width: 100%;
+}
+card-flipper.dashboard card-flipper-front {
+  float: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 900;
+  width: inherit;
+  height: inherit;
+  border: 1px solid #ccc;
+  background: inherit;
+  text-align: center;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.9);
+}
+card-flipper.dashboard card-flipper-front.flipped {
+  border-color: #eee;
+  /*background: #333;*/
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+}
+card-flipper.dashboard card-flipper-back {
+  float: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 800;
+  width: inherit;
+  height: inherit;
+  border: 1px solid #ccc;
+  background: inherit;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.9);
+}
+card-flipper.dashboard card-flipper-back.flipped {
+  /*background: #80868d;*/
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
+/*fancy class*/
+card-flipper.fancy {
+  float: left;
+  margin: 0 10px 10px 0;
+  position: relative;
+  font-size: .8em;
+  cursor: pointer;
+  width: 250px;
+  height: 250px;
+}
+card-flipper.fancy img {
+  height: 100%;
+  width: 100%;
+}
+card-flipper.fancy card-flipper-front {
+  float: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 900;
+  width: inherit;
+  height: inherit;
+  border: 1px solid #ccc;
+  background: white;
+  text-align: center;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.9);
+}
+card-flipper.fancy card-flipper-front.flipped {
+  border-color: #eee;
+  /*background: #333;*/
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+}
+card-flipper.fancy card-flipper-back {
+  float: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 800;
+  width: inherit;
+  height: inherit;
+  border: 1px solid #ccc;
+  background: white;
+  text-align: center;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.9);
+}
+card-flipper.fancy card-flipper-back.flipped {
+  /*background: #80868d;*/
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+}

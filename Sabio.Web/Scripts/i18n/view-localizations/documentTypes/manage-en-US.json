@@ -1,0 +1,11 @@
+﻿{
+  "documentTypes": {
+    "manage": {
+      "name": "Name",
+      "code": "Code",
+      "displayOrder": "Display Order",
+      "inactive": "Inactive",
+      "documentTypes" :  "Document Types"
+    }
+  }
+}

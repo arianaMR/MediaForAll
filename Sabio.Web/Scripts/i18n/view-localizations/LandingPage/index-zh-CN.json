@@ -1,0 +1,16 @@
+﻿{
+  "landingPage": {
+    "index": {
+      "agentsIcon": "找经纪人",
+      "catchPhrase": "简易化房子买卖",
+      "encouragePhrase": "开始搜索吧!",
+      "expenseIcon": "监督开支",
+      "logoName": "房产交易网格",
+      "ourGoalBody": "简易化买房复杂化的过程",
+      "ourGoalHeader": "我们的目标",
+      "placeholder": "输入地点",
+      "searchIcon": "搜索房子",
+      "transactionsIcon": "跟踪交易"
+    }
+  }
+}

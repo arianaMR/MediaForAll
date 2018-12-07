@@ -1,0 +1,64 @@
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Sabio.Web.Core.dll.config
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Sabio.Web.Core.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Sabio.Web.Core.pdb
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Helpers.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Http.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Mvc.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Razor.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.WebPages.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Unity.Mvc5.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Helpers.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Http.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Mvc.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.Razor.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.WebPages.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\obj\Debug\Sabio.Web.Core.dll
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\obj\Debug\Sabio.Web.Core.pdb
+C:\SF.Code\MediaForAll_v2\Sabio.Web.Core\obj\Debug\MediaForAll.Web.Core.csprojResolveAssemblyReference.cache
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Sabio.Web.Core.dll.config
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Sabio.Web.Core.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Sabio.Web.Core.pdb
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Newtonsoft.Json.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Helpers.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Http.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Mvc.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Razor.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.WebPages.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Unity.Mvc5.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\Newtonsoft.Json.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Helpers.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Http.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Mvc.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.Razor.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.WebPages.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\obj\Debug\MediaForAll.Web.Core.csprojResolveAssemblyReference.cache
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\obj\Debug\Sabio.Web.Core.dll
+C:\SF.Code\MediaForAll - Copy\Sabio.Web.Core\obj\Debug\Sabio.Web.Core.pdb

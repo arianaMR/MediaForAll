@@ -1,0 +1,13 @@
+﻿{
+  "documentation": {
+    "localization": {
+      "examples": {
+        "title":  "好备养",
+        "filter": "军太证合点九目局中，定量放造研律号林及, 定3观候正世",
+        "directive": "海则呆向。 值已常应当目导不织导，电步造交京活程儿容式，改办霸表调无样求北",
+        "directiveWithAttribute": "便厂究证而先己公种",
+        "fallbackWarning": "The translation ids below only appears in the fallback language, which is currently set to English, so this string will always appear in English if English remains the fallback language. If don't have localization information for all locales, which right now is everything but English, don't add tags with empty strings into the localization files you don't have information for. If you do, the tag content would be blank in the other localization, like this one. So just create the namespacing and leave the rest for Dan."
+      }
+    }
+  }
+}

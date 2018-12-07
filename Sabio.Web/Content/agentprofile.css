@@ -1,0 +1,128 @@
+﻿#resize {
+    height: 650px 100%;
+    width:1349px 100%;
+}
+
+/*JUMPDOWNS*/
+div.services {
+    align-content: center;
+}
+
+/*TESTIMONIALS*/
+.dark {
+    background-color: #212121;
+}
+.testimonial-content {
+    color: #fff;
+}
+
+div.col-md-4 {
+    padding-top:50px;
+    padding-bottom:20px;
+}
+
+div.testimonial-bordered {
+    margin: 0px;
+}
+
+
+/*LISTINGS SLIDERS*/
+div.listings {
+    padding: 80px 0;
+    padding-top: 80px;
+    padding-right: 0px;
+    padding-bottom: 80px;
+    padding-left: 0px;
+}
+
+
+/*SERVICES-icons-font*/
+#myListingsIcon {
+    background-color:#ee7954; color:#fff;
+}
+
+#articlesIcon {
+    background-color: #f06793; color:#fff;
+}
+
+#aboutMeIcon {
+    background-color:#ebba63; color:#fff;
+}
+.box-icon p {
+    font-size: small;
+    font-style: italic;
+}
+
+#nav a {
+    -webkit-transition: all 0.5s ease;
+}
+
+/*ABOUT ME*/
+
+.aboutMeContainer {
+    width: 1170px;
+     padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.row {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-md-6 {
+    width: 50%;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/*current article*/
+
+.parellex {
+    /* The image used */
+    background-image: url('../assets/images/demo/600x400/39-min.jpg');
+    /* Set a specific height */
+    height: 300px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+}
+
+/*h1 {
+   
+   position: absolute;  
+   width: 100%; 
+}*/
+
+h1 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   padding: 10px; 
+}
+
+.carousel-indicators li {
+    border: none;
+    visibility: hidden;
+}
+
+
+.img .img-responsive {
+    max-height: 211px;
+    max-width: 317px;
+}
+
+ uib-carousel { 
+     max-height: 700px; 
+     overflow: hidden;
+
+ }

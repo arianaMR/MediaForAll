@@ -1,0 +1,47 @@
+﻿{
+  "properties": {
+    "details": {
+      "notesPanelHeader": "房屋笔记",
+      "notesPanelBody": {
+        "notesButton": "添加笔记"
+      },
+      "listingAgentInfoHeader": "卖方经纪人联络资料",
+      "listingAgentInfoBody": {
+        "ListAgentPager": "XXXXXXXX",
+        "ListAgentFax": "XXXXXXXX",
+        "ListAgentVoiceMail": "XXXXXXXX",
+        "ListAgentEmail": "XXXXXXXX",
+        "ListOfficeFax": "XXXXXXXX",
+        "ListOfficePhone": "XXXXXXXX",
+        "LockBoxLocation": "XXXXXXXX",
+        "MlsListingId": "XXXXXXXX",
+        "PrivateRemarks": "XXXXXXXX",
+        "ShowingContactName": "XXXXXXXX",
+        "ShowingContactPhone": "XXXXXXXX",
+        "ShowingContactType": "XXXXXXXX",
+        "ShowingInstructions": "XXXXXXXX",
+        "SignOnPropertyYN": "XXXXXXXX",
+        "ListingTerms": "XXXXXXXX"
+      },
+      "showingInstructionsHeader": "进房指示",
+      "showingInstructionsBody": {},
+      "propertyDetailsHeader": "房屋细节",
+      "propertyDetailsBody": {
+        "basicDetailsHeader": "房屋基本细节",
+        "basicDetailsBody": {},
+        "descriptionHeader": "房屋描述",
+        "descriptionBody": {},
+        "moreDetailsHeader": "更多细节",
+        "moreDetailsBody": {},
+        "schoolInfoHeaders": "学区资料",
+        "schoolinfoBody": {},
+        "mapHeader": "地图",
+        "mapBody": {}
+      },
+      "postViewReactionHeader": "观光后反应",
+      "postViewReactionBody": {},
+      "toDoListHeader": "特办清单",
+      "toDoListBody": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿section {
+    /*padding: 16px 0;*/
+}
+
+.strike-through {
+     text-decoration: line-through;
+}
+
+.loading-div {
+    display: none;
+    z-index: 9999;
+    font-size: 24px;
+}
+
+.loading-data-spin {
+    display: inline-block;
+    z-index: 9999;
+    font-size: 16px;
+    animation: fa-spin 200ms infinite linear;
+}
